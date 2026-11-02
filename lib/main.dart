@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             Text(
-              '$_counter',
+              '$_counter its number',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
